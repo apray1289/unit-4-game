@@ -1,0 +1,76 @@
+.jewel {
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.scoreboard {
+    float: right;
+    padding: 15px;
+    background-color: lightblue;
+    margin-left: 10px;
+}
+
+.main-title {
+    background-color: orange;
+    padding: 25px;
+    width: 25%;
+    
+}
+
+.instructions {
+    background-color: #f4a482;
+    width: 40%;
+    height: 300px;
+    color: teal;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.container {
+    margin-left: 1%;
+}
+
+#total-score-text {
+    margin-top: 20px;
+    background-color: green;
+    margin-bottom: 15px;
+    width: 40%;
+    margin-left: -2.5%;
+
+}
+
+.desired-score {
+padding: 15px;
+background-color: green;
+margin-left: 1%;
+font-size: 24px;
+
+}
+
+.background {
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.total-score {
+    margin-bottom: 10px;
+    padding: 25px;
+    background-color: green;
+    margin-left: -5%;
+}
+
+.running-score {
+    background-color: green;
+    margin-left: -2.5%;
+    width: 40%;
+    padding: 5px 10px 25px 10px;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
